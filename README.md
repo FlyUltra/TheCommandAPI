@@ -8,7 +8,7 @@
 [![badge](https://img.shields.io/github/license/iVantional/TheCommandAPI)](https://github.com/iVantional/TheCommandAPI/blob/master/LICENSE.txt)
 
 
-Are you bored of creating typical commands? <br>
+Are you bored with creating typical commands? <br>
 Try our API for your Spigot commands. <br>
 
 ## Table of contents
